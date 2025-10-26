@@ -9,7 +9,7 @@ Team Members:
 
 Ian Martin
 
-Noila Rahimjon 
+[Noila Rahimjon] (https://github.com/Noilar)
 
 [Oraa Raysoni](https://github.com/oraaraysoni-beep)
 
@@ -18,7 +18,7 @@ Sisira Gudi
 # Problem Description:
 
 The task at hand is to model and build a relational database for the general workings of an e-commerce company, "PuzzleVerse." The central goal is to track the company's product catalog, customer sales, and artist collaborations. The model must support all core business functions, from managing customer orders and payments to tracking product designs and custom requests.
-We are interested in accurately modeling these relationships, generating sample data to populate the entities and their attributes, and formulating 10 functioning queries on this data to provide valuable business insights about PuzzleVerse's operations.
+We are interested in accurately modeling these relationships, generating sample data to populate the entities and their attributes, and formulating 10 functioning queries on this data to provide valuable business insights about PuzzleVerse's operations. 
 
 # Data Model:
 

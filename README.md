@@ -9,7 +9,8 @@ Team Members:
 
 Ian Martin
 
-Noila Rahimjon 
+Noila Rahimjon (https://github.com/Noilar)
+
 
 [Oraa Raysoni](https://github.com/oraaraysoni-beep)
 
